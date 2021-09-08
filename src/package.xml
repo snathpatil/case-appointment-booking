@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ServiceAppointment.Case__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Case_Appointment</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Case.Schedule_Appointment</members>
+        <name>QuickAction</name>
+    </types>
+    <version>52.0</version>
+</Package>
