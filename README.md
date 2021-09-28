@@ -6,4 +6,4 @@ This repository contains metadata of Salesforce Scheduler flow which you can use
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
->For more information, please visit : [UnofficialSF : Salesforce Scheduler](https://unofficialsf.com/scheduler-service-resource-onboarding "UnofficialSF : Salesforce Scheduler")
+>For more information, please visit : [UnofficialSF : Salesforce Scheduler](https://unofficialsf.com/schedule-a-support-advisor "UnofficialSF : From Shantinath Patil: Schedule a support advisor")
